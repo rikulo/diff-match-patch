@@ -16,6 +16,7 @@ import "package:diff_match_patch2/diff_match_patch.dart";
 ```
 
 * `Patch` and `Diff` can be jsonized. To decode, use `Patch.fromJson` and `Diff.fromJson`.
+   * [Example](https://github.com/rikulo/diff-match-patch/blob/main/test/diff_test.dart)
 * `patch_main` in [Google Diff Match and Patch library](https://github.com/google/diff-match-patch) are split into `patch_main`, `patch_diffs` and `patch_make` for strong types.
 
 ## Who Uses
