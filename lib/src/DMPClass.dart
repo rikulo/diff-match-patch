@@ -23,7 +23,7 @@
  *
  * @author fraser@google.com (Neil Fraser)
  */
-part of common.DiffMatchPatch;
+part of diff_match_patch;
 
 /**
  * The data structure representing a diff is a List of Diff objects:

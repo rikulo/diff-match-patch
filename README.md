@@ -3,7 +3,7 @@
 A port of [Google Diff Match and Patch library](https://github.com/google/diff-match-patch) to Dart
 
 * [Repository](https://github.com/rikulo/diff-match-patch)
-* [API Reference](https://pub.dev/documentation/diff-match-patch/latest/)
+* [API Reference](https://pub.dev/documentation/diff_match_patch2/latest/)
 
 ## Usage
 

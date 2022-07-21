@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-library common.DiffMatchPatch;
+library diff_match_patch;
 
 import 'dart:math';
 import 'dart:collection';
